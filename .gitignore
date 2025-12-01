@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Virtual envs
+.venv/
+venv/
+
+# Data files (private / large)
+*.csv
+*.joblib
+
+# OS clutter
+.DS_Store
+Thumbs.db
