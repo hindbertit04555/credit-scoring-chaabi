@@ -31,5 +31,4 @@ The final system:
 
 ---
 
-## 📂 Repository Structure
 
