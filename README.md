@@ -30,5 +30,6 @@ The final system:
   - `1` → Credit obtained  
 
 ---
-
+**Deployed Streamlit Application:**  
+(https://credit-scoring-chaabi-pvt9gsfybjzwactfaj8rsh.streamlit.app)
 
